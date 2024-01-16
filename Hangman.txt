@@ -1,0 +1,25 @@
+Hangman
+1. choose a word
+    beginning of loop
+2. ask for a guess, g 
+3. generate for a clue
+4. check to see if the clue = the word
+    a. if it does, you win
+    b. else you continue
+4. add that guess to a list of guessed letters
+5. go back to 2
+    end of loop
+
+
+
+Your guess: e
+
+Clue: ---e
+Letters guessed: e
+Your guess: t 
+
+Clue: ---e
+Letters guessed: et
+Your guess: a
+
+Clue: ---e
